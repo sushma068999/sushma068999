@@ -4,7 +4,7 @@ I'm Sushma, an aspiring AI & Machine Learning student from India.
 I'm passionate about building practical projects, learning modern web technologies, and improving my problem-solving skills one project at a time.
 
 ## I’m currently working on ...
-- 🌐 Learning HTML, CSS, JavaScript, React & React Native
+- 🌐 Learning Frontend and Backend development
 - 🤖 Exploring AI/ML concepts and Python
 - 📈 Building a portfolio through consistent projects
 
